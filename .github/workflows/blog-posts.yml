@@ -12,5 +12,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
             max_post_count: "4"
-            feed_list: "https://dev.to/feed/A70xa"
+            feed_list: "https://github.com/A70xa/Vulnhub-Writeups"
             
