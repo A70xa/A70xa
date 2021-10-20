@@ -3,8 +3,9 @@
 <!--
 **A70xa/A70xa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### I'm a CTF Player
-- Cyber Security Student!
+### I'm a CTF Player.
+- Cyber Security Student.
+- Bug Bounty Hunter.
 - CEH and CSA and Working on eJPT, CEH Practical and OSCP.
 
 ## Connect with me:
