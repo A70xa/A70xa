@@ -12,4 +12,5 @@
 [<img align="left" alt="a7Shamroukh | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 <br />
 <br />
-l6[linkedin]: https://www.linkedin.com/in/ahmedshamroukh/
+
+[linkedin]: https://www.linkedin.com/in/ahmedshamroukh/
