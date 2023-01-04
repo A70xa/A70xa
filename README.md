@@ -12,7 +12,7 @@
 [<img align="left" alt="a7Shamroukh | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 <br />
 <br />
-[<img align="left" alt="ahmed-shamroukh | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />][medium]
+[<img align="right" alt="ahmed-shamroukh | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />][medium]
 <br />
 <br />
 
